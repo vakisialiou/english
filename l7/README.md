@@ -51,8 +51,8 @@
 1. I've lost my keys again.
    - Not again! You're always losing your keys.
 2. The car has broken down again.
-   - That car is useless. It is always broking down.
+   - That car is useless. It is always breaking down.
 3. Look! You've made the same mistake again.
    - Oh no, not again! I am always making this mistake.
 4. Oh, I've left my phone at home again.
-- Typical! I am always leaving my phone at home.
+   - Typical! I am always leaving my phone at home.

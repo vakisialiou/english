@@ -28,6 +28,7 @@ https://www.youtube.com/watch?v=eIho2S0ZahI
     - blame - обвинять
     - some people have a blamethrower - у некоторых людей есть обвинитель
 6. Exaggeration(экзаджэрэйшен) - преувеличение
+   - embroidery - украшение
    - penultimate(пэналтимэт) - предпоследний
    - demean(дэмин) - унижать
    - actually - на самом деле
