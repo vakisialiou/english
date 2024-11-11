@@ -44,11 +44,31 @@ https://www.youtube.com/watch?v=ICJ3NRK9cNs
 - knight - рыцарь
 - knighthood - рыцарство, рыцарское звание
 - squire - оруженосец
+- sword - меч
+- forge - выковать, подделывать, кузница
+- axe - топор
+- a bow - лук
+- to bow - кланяться
+- This sword was forged with the Black Steel - Этот меч был выкован из черной стали.
 - promote - повышать, выдвигать
 - deed - поступок
 - a heroic deed - героический поступок
+- to workshop - практиковать
 - I'm workshopping it - Я это обдумываю
 - ? - It takes years. You start as a knight's page. - Это занимает годы. Ты начинаешь как паж рыцаря.
+- I'm not concerned - Я не беспокоюсь
+- poison - яд, отравлять
+- grubby - грязный
+- paws - лапы
+- grubby paws - грязные лапы
+- Don't put your grubby paws near it. - Не подносите к нему свои грязные лапы.
+- skullpiercer - пирсинг черепа
+- weasels - ласки
+- weasel - ласка (животное)
+- to intent - намерение
+- banish - изгнать, прогонять
+- infiltrate to Queen's inner circle - проникнуть в ближайшее окружение королевы
+- kind of - вроде того
 
 [Panda]
 - Lila... What was her name? - Как ее звали?
@@ -94,7 +114,7 @@ https://www.youtube.com/watch?v=ICJ3NRK9cNs
 - Lisa Longport! - Лиза Лонгпорт!
 - What? - Что?
 - Glowy thumb. - Светящийся большой палец
-- Weird - Странный
+- Weird - Странно
 - Watch the rock! - Берегись камня!
 
 [Lisa]
@@ -159,4 +179,93 @@ https://www.youtube.com/watch?v=ICJ3NRK9cNs
 - If you're lucky you're promoted to squire. - Если вам повезет, вас повысят до оруженосца.
 - and then, maybe, if you're managed a heroic deed - и тогда, может быть, если вам удастся совершить подвиг
 - they'll recommend you to the Queen for knighthood - Они будут рекомендовать вас королеве для посвящения в рыцари.
-[5:10]
+
+[Panda]
+- Okay, yeah, yeah, yeah. So how do I become a page?
+
+[Lisa]
+- Impress me
+
+[Panda]
+- That's kinda my whole thing. I'm pretty impress. - Это как раз моя фишка. Я очень впечатлен.
+- Tushie smash - Туши разгром
+- Let me just take five. Ooh, yeah - Дай мне только пять. О, да.
+- Nice
+- Uh, looks tasty.
+
+[Lisa]
+- I'm not concerned with tasty. - Меня не волнует вкус.
+
+[Panda]
+- Try this. - Попробуй это.
+- My dad's world-famous red chili crisp - Знаменитые на весь мир чипсы с красным перцем чили моего отца
+- Yeah, It's pretty hot. Whoa! - Да, довольно жарко. Ух ты!
+
+[Lisa]
+- You poisoned me. - Ты меня отравил.
+
+[Panda]
+- What?
+- No, I didn't!
+- It's just spicy!
+- It'll pass, I promise!
+- Pretty good, right?
+- Uh, pretty quick with that sword. - Э-э, довольно быстро с этим мечом.
+
+[Lisa]
+- Don't put your grubby paws near it. - Не подносите к нему свои грязные лапы.
+- This sword was forged with the Black Steel of the Equinox - Этот меч был выкован из Черной стали Равноденствия.
+
+[Panda]
+- Black Steel of the Equinox? - Черная сталь равноденствия?
+- I don't know what that means but it sounds awesome. - Я не знаю, что это значит, но звучит потрясающе.
+- Black Steel of the Equinox? - Черная сталь равноденствия?
+- That is so fun to say. Это так забавно говорить.
+- Try saying that, go ahead. - Попробуйте сказать это, продолжайте.
+
+[Lisa]
+- Black Steel of the Equinox isn't fun. - Черная сталь Равноденствия — это не весело.
+- It's the same metal Sir Galaham the Brooding used to forge his great axe, Bone Kisser 
+- Это тот же металл, который сэр Галахам Задумчивый использовал для выковывания своего огромного топора, Bone Kisser.
+
+[Panda]
+- There was an axe called Bone Kisser?! - Был такой топор под названием «Целующий кости»?!
+
+[Lisa]
+- That's nothing - Это ничего
+- Sir Rabbit of Devon had a bow so strong - У сэра Кролика из Девона был такой сильный лук,
+- it could fire an arrow through ten of her enemies at once, like butter.
+- она могла выпустить стрелу, пронзившую сразу десять ее врагов, словно масло.
+- you know what she called it? - Знаете, как она это назвала?
+
+[Panda]
+- Butter Bow - Лук с маслом
+
+[Lisa]
+- skullpiercer - пирсинг черепа
+
+[Panda]
+- Wow, cool! - Ух ты, круто!
+- gross...
+- So, how do you know all that? - Так откуда вы все это знаете?
+
+[Lisa]
+- It's all right here, in the Knight's Code - Это все здесь, в Кодексе Рыцаря.
+
+[Panda]
+- Okay, cool.
+- So, what's the deal with these weasels? - Так что же не так с этими ласками?
+
+[Lisa]
+- Klaus and Veruca are mages. - Клаус и Верука — маги.
+- Well, a sect of mages, ones with bad intent. - Ну, секта магов, имеющих плохие намерения.
+- For hundreds of years - На протяжении сотен лет
+- They've used their dark powers to manipulate their way into society.
+- Они использовали свои темные силы, чтобы проложить себе путь в общество.
+- Only recently did the knights discover their plans - Лишь недавно рыцари узнали об их планах.
+- and banish them from England - и изгнать их из Англии
+- but not until after Klaus and Veruca infiltrated the Queen's inner circle
+- но только после того, как Клаус и Верука проникли в ближайшее окружение королевы
+- and made an attempt on her life - и совершил покушение на ее жизнь
+- destroying any who stood in their path - уничтожая любого, кто встанет у них на пути
+[8:17]
