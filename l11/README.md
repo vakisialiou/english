@@ -30,7 +30,7 @@
 
 15. (he / hurt his leg) - He has hurt his leg
 
-16. (she / leave her phone in a taxi)
+16. (she / leave her phone in a taxi) - she has left her phone in a taxi
 
 17. (we / not /lose our tickets) We haven't lost out tickets
 
@@ -63,7 +63,6 @@
 31. (what / she / eat today?) - what has she eaten today?
 
 32. (why / you / do your homework already?) - why have you done your homework already?
-                                            - why have you already done your homework?
 
 33. (how / she / make this fantastic cake?) - how has she made this fantastic cake?
 
@@ -73,9 +72,9 @@
 
 36. (it / rain a lot this week) - it has rained a lot this week
 
-37. (they / use a credit card before?) - they have used a credit card before?
+37. (they / use a credit card before?) - have they used a credit card before?
 
-38. (we / have enough to eat?) - we have had enough to eat?
+38. (we / have enough to eat?) - have we had enough to eat?
 
 39. (she / not / play basketball before) - she hasn't played basketball before
 
