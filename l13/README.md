@@ -11,6 +11,7 @@ about the way you write scripts and make videos by the way I'm Callaway
 I've pulled over a billion views on short from video
 I've got 500,000 followers and I think about this stuff all the time 
 all right let's drive in tip number one:
+
 1. Is what I call the dance? All great stories are like a dance between
 context and conflict you give a little context the characters on a mission 
 they're doing something and then oh, oh no here comes a conflict you give a
@@ -45,5 +46,48 @@ then conflict loops in the first 30 seconds. Watch this:
     - Something crazy is happening with Stanley Cups 
         - you ever seen on of these Stanley Cups
         - Stanley Cups racking up 7.7 billion views
-    - This 40 Stanley quencher has become the Louis Vuitton
+    - This 40 Stanley quencher has become the Louis Vuitton 
+    wear it's a status symbol new releases are selling out in seconds 
+    people are flipping them for hundreds on eBay Stanley the company 10x revenue 
+    in 4 years off this single product but the real question is "how they do it" 
+    how did Stanley Cups go from a construction worker's thermos to the dream Christmas gift. <I got a Stanley>
+    It's a wild story so in 2019 Stanley was actually about to discontinue the cup 
+    but this group of mom block loggers the buy guide knew they were making a huge mistake 
+    so they cut a special affiliate deal with Stanley to bulk order 5000 cups with a Twist
+    Stanley had to make them pastel colors 
+    those 5000 cups sold out in 5 days and completely chang their philosophy on design
+    but it gets even better a few months ago Stanley had the burning car money
+
+So I'm consistently setting up these head fakes to keep the storyline moving use this but 
+then framework next time you're Ting a script I guarantee it'll uplevel that video all
+
+2. Right tip number two rhythm!
+ 
+I talk about this a lot but there's this natural subconscious pacing and rhythm that 
+is soothing to the brain. You can hear in my delivery I'm pretty decent with this 
+like natural EB end flow the rhythm of the syllables when 
+I talk is soothing to listen to now 
+I used to be a rapper, and I was a drummer growing up so this pacing and rhythm is kind of
+embedded in me. Which I think is why I'm naturally good at talking in this way.
+But I do have this tactical way that can improve anyone else at rhythm. Take a look at 
+this image which was written by the legendary author Gary Provost
+now listen as I read this. This sentence has five words. 
+Here are five more words. Five-words sentences are fine but several together become monotonous.
+Listen to what is happening this writing is getting boring the sound of it drones
+It's like a stuck record the ear demeans some variety.
+Now listen I vary the sentence length, and I create music.
+Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony.
+I use short sentences. And I use sentences of medium length. And sometimes when I am certain
+the reader is rested, I will engage him with a sentence of considerable length, a sentence
+that burns with energy and builds with all the impetus of a crescendo, the roll of the drums
+the crash of the cymbals-sounds that say listen to this, it is important
+So write with a combination of short, medium, and long sentences.
+Create a sound that pleases the reader's ear. Don't just write words. Write music.
+
+https://youtu.be/t5Z-Q1bg1tU?t=283
+
+
+    
+    
+    
    
