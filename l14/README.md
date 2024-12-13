@@ -56,7 +56,6 @@ Are the sentences true or false?
 
 
 ### words
-- department - отдел
 - responding - реагирование
 - respond - отвечать, реагировать
 - response - ответ, реакция
