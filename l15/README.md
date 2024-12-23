@@ -2,13 +2,13 @@
 ### Put in a/an or the.
 a. This house is very niece. Does it have a garden?
 b. It's a beautiful day. Lat's sit in the garden.
-c. I like living in this house, but it's a shame that this garden is so small.
+c. I like living in this house, but it's a shame that the garden is so small.
 
 a. Can you recommend a good restaurant?
-b. We had dinner in the very nice restaurant.
+b. We had dinner in a very nice restaurant.
 c. We had dinner in the best restaurant in town.
 
-a. What's a name of that man we met yesterday?
+a. What's the name of that man we met yesterday?
 b. We stayed at the very nice hotel - I can't remember the name now.
 c. My neighbour has the French name, but ib fact she's English, not French.
 
