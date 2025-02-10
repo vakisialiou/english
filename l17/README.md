@@ -39,4 +39,4 @@ Self healing ai
     help write code, identify anomalies, errors, wrong places
     upon detection it will initiate corrective actions
 The AI singularity
-Will reach level of sophistication when is potentially achieve singularity
+    Will reach level of sophistication when is potentially achieve singularity
