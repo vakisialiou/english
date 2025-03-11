@@ -3,7 +3,7 @@
 1. I've waited long enough. I'm not waiting any longer.
 2. I'm sorry I'm a bit late? but I couldn't get here ???
 3. This shop isn't expensive. The prises are **higher than** anywhere else.
-4. I need to stop for a rest. I can't walk **anymore**.
+4. I need to stop for a rest. I can't walk **any further**.
 5. The traffic isn't especially bad today. It's **lover than** usual. (**no bigger than**)
 
 ### 106.3
@@ -25,7 +25,7 @@
 4. I know more, but I understand less.
    - The more I know, the less I understand.
 5. If you use more electricity, your bill will be higher.
-   - The more electricity you use, the higher bill will you have.
+   - The more electricity you use, the higher bill will be.
 6. Kate had to wait a long time and became more and more impatient.
    - The longer time Kate wait, the more impatient she became.
    
